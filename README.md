@@ -22,3 +22,10 @@ There were 2 Major Case Studies and 3 minors.
 ### Permutation test
 ### Bootstrap test 
 ### Kolmogrov smirnov test
+# Datasets can be downloaded from datacamp from the following links :
+[swimming 2013](https://assets.datacamp.com/production/repositories/1067/datasets/ed0ba2dca1d7d515d925c62aa0badf02ef00fad8/2013_FINA.csv)
+[swimming 2015](https://assets.datacamp.com/production/repositories/1067/datasets/80dc54c31868c00a584bfa3a195525fa243d839e/2015_FINA.csv)
+[zebrafish bout length](https://assets.datacamp.com/production/repositories/1067/datasets/8885c23f1c156149b736ca2ea0d9b01bbc727ecd/gandhi_et_al_bouts.csv)
+[bacterial growth](https://assets.datacamp.com/production/repositories/1067/datasets/8c69b496a875ae9597a4962269baae2ceab341f0/park_bacterial_growth.csv)
+[parkfield earthquakes](https://assets.datacamp.com/production/repositories/1067/datasets/dfefd6ab5cf704d0723ec08723c9e7c9978c1700/parkfield_earthquakes_1950-2017.csv)
+[oklahoma earthquakes](https://assets.datacamp.com/production/repositories/1067/datasets/c12865c9df2b6e63a40a53eaeee7caffb6cf87ac/oklahoma_earthquakes_1950-2017.csv)
