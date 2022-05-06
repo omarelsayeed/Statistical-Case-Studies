@@ -13,3 +13,12 @@ There were 2 Major Case Studies and 3 minors.
 ###         3 - Zebrafish active bout length.
 
 
+# Main Pipeline : 
+#### First , Exploratory Data analysis by ploting the ecdf , compraing distributions , etc..
+#### Secondly , calculating the optimal parameters and their confidence intervals.
+#### then putting questions and answering them Using Hypothesis tests.
+
+# Hypothesis Tests Done : 
+### Permutation test
+### Bootstrap test 
+### Kolmogrov smirnov test
